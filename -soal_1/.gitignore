@@ -1,0 +1,17 @@
+# Ignore semua
+*
+
+# File yang ingin dimasukkan
+!.gitignore
+!.config
+!backup.sh
+!iso.sh
+!kernel.sh
+!multi.sh
+!single.sh
+!qemu.sh
+
+# Folder osboot dan isinya
+!osboot/
+!osboot/**
+
